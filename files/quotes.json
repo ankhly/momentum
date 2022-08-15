@@ -1,0 +1,62 @@
+[
+	{
+		"text": "Good design adds value faster than it adds cost",
+		"ruText": "В хорошем дизайне добавление вещи стоит дешевле, чем сама эта вещь.",
+		"author": "Thomas C. Gale"
+	},
+	{
+		"text": "Talk is cheap. Show me the code.",
+		"ruText": "Болтовня ничего не стоит. Покажите мне код.",
+		"author": "Linus Torvalds"
+	},
+	{
+		"text": "Perfection [in design] is achieved, not when there is nothing more to add, but when there is nothing left to take away.",
+		"ruText": "Как видно, совершенство достигается не тогда, когда уже нечего прибавить, но когда уже ничего нельзя отнять.",
+		"author": "Antoine de Saint-Exupéry"
+	},
+	{
+		"text": "In theory, theory and practice are the same. In practice, they’re not.",
+		"ruText": "В теории, теория и практика неразделимы. На практике это не так.",
+		"author": "Yoggi Berra"
+	},
+	{
+		"text": "Computer science education cannot make anybody an expert programmer any more than studying brushes and pigment can make somebody an expert painter.",
+		"ruText": "Обучение программированию не может научить быть экспертом, также как и изучение кистей и красок не может превратить кого-либо в художника.",
+		"author": "Eric S. Raymond"
+	},
+	{
+		"text": "Fine, Java MIGHT be a good example of what a programming language should be like. But Java applications are good examples of what applications SHOULDN’T be like.",
+		"ruText": "Хорошо, Java, ВОЗМОЖНО, хороший пример того как должен выглядеть язык. Но тогда программы на Java — это хороший пример как НЕЛЬЗЯ писать программы.",
+		"author": "pixadel"
+	},
+	{
+		"text": "In the one and only true way. The object-oriented version of 'Spaghetti code' is, of course, 'Lasagna code'. (Too many layers).",
+		"ruText": "Объектно-ориентированная версия «спагетти кода» — это, конечно, «лазанья код» (очень много слоев).",
+		"author": "Roberto Waltman"
+	},
+	{
+		"text": "When someone says: 'I want a programming language in which I need only say what I wish done', give him a lollipop.",
+		"ruText": "Когда кто-то говорит: «Я хочу язык программирования, который может делать все, что ему скажу», то я даю этому человеку леденец.",
+		"author": "Alan J. Perlis"
+	},
+	{
+		"text": "Programming is like kicking yourself in the face, sooner or later your nose will bleed.",
+		"ruText": "Программирование — это как бить себя по лицу, рано или поздно ваш нос будет кровоточить.",
+		"author": "Kyle Woodbury"
+	},
+	{
+		"text": "Computer system analysis is like child-rearing; you can do grievous damage, but you cannot ensure success.",
+		"ruText": "Анализ компьютерных систем — это как воспитание детей; можно нанести огромный вред, но нельзя гарантировать успех.",
+		"author": "Tom DeMarco"
+	},
+	{
+		"text": "Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code.",
+		"ruText": "Иногда лучше остаться спать дома в понедельник, чем провести всю неделю отлаживая написанный в понедельник код.",
+		"author": "Christopher Thompson"
+	},
+	{
+		"text": "Most of you are familiar with the virtues of a programmer. There are three, of course: laziness, impatience, and hubris.",
+		"ruText": "Многие из вас знакомы с достоинствами программиста. Их всего три, и разумеется это: лень, нетерпеливость и гордыня.",
+		"author": "Larry Wall"
+	}
+]
