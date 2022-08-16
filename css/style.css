@@ -863,8 +863,8 @@ body::-webkit-scrollbar {
   -webkit-transition: all 0.6s ease 0s;
   -o-transition: all 0.6s ease 0s;
   transition: all 0.6s ease 0s;
-  height: 100%;
-  padding: 15px 15px 25px 15px;
+  height: 100vh;
+  padding: 15px 15px 0px 15px;
   overflow: auto;
 }
 
@@ -874,7 +874,7 @@ body::-webkit-scrollbar {
   left: 0;
   content: "";
   width: 100%;
-  height: calc(100% + 40px);
+  height: 100%;
   background-color: rgba(0, 0, 0, 0.4);
 }
 
@@ -895,7 +895,7 @@ body::-webkit-scrollbar {
       -ms-flex-align: center;
           align-items: center;
   gap: 30px;
-  height: 100vh;
+  height: 100%;
 }
 
 .content-main {
@@ -1259,6 +1259,7 @@ body::-webkit-scrollbar {
   -webkit-box-pack: justify;
       -ms-flex-pack: justify;
           justify-content: space-between;
+  padding: 0px 0px 15px 0px;
 }
 
 .icon-footer {
